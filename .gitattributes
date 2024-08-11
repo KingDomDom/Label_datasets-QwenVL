@@ -1,0 +1,4 @@
+config.json filter=lfs diff=lfs merge=lfs -text
+datasets filter=lfs diff=lfs merge=lfs -text
+final.py filter=lfs diff=lfs merge=lfs -text
+labels.txt filter=lfs diff=lfs merge=lfs -text
